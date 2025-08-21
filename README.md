@@ -3,11 +3,8 @@
 🚀 **Cloud | DevOps | Networking Intern**  
 🌍 Based in Nugegoda, Sri Lanka  
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://my-portfolio-react-taupe.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dilhara2001)  
-[![GitHub](https://img.shields.io/badge/GitHub-Pathum--Dilhara-black)](https://github.com/Pathum-Dilhara)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/share/1FxBMmeeSy/)  
-
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://my-portfolio-react-taupe.vercel.app/)      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dilhara2001)     [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/share/1FxBMmeeSy/)
+  
 ---
 
 ## 💡 About Me  
