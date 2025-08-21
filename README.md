@@ -30,10 +30,7 @@ I love working on **real-world projects**, especially in **AWS, Azure, Terraform
 ## 🛠 Skills & Tools  
 
 ### 🚀 Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![AWS](aws.png)  ![Azure](azure.png)  ![Terraform](terraform.png) ![Docker](docker.png) ![Jenkins](jenkins.png) ![Kubernetes](kubernetes.png)  ![Linux](linux.png) ![React](react.png) ![html](html.png) ![Figma](figma.png) ![Github](github.png) ![Pythin](python.png)
 
 ### ⚡ Infrastructure & CI/CD  
 - **Terraform**  
